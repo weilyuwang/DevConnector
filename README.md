@@ -50,12 +50,12 @@ module.exports = {
 
 #### Libraries used in Client-side
 
-- [x] **[axios](https://github.com/axios/axios)**
-- [x] **[classnames](https://github.com/JedWatson/classnames)**
-- [x] **[react-moment](https://github.com/headzoo/react-moment)**
-- [x] **[react-redux](https://github.com/reduxjs/react-redux)**
-- [x] **[redux-thunk](https://github.com/reduxjs/redux-thunk)**
-- [x] **[validator](https://github.com/chriso/validator.js)**
+**[axios](https://github.com/axios/axios)**
+**[classnames](https://github.com/JedWatson/classnames)**
+**[react-moment](https://github.com/headzoo/react-moment)**
+- **[react-redux](https://github.com/reduxjs/react-redux)**
+- **[redux-thunk](https://github.com/reduxjs/redux-thunk)**
+- **[validator](https://github.com/chriso/validator.js)**
 
 ### Server Side
 
