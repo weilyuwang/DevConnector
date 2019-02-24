@@ -1,17 +1,15 @@
 # DevConnector
 
-A platform for developers to connect. They can create their portofolio by adding their experience, education, skills and other important information of their professional career.
+A platform for developers to connect. They can create their portofolio by adding their experience, education, skills and other important information of their professional career. Users can also create small posts and like/dislike and comment on other posts.
 
-Users can also create small posts and like/dislike and comment on other posts.
-
-Link: <a href="https://glacial-island-91015.herokuapp.com/" target="_blank"> Click here</a>
+You can visit the website <a href="https://glacial-island-91015.herokuapp.com/" target="_blank">here</a>
 
 <img src="img/home.png">
 
 ---
 
 
-## Quick Start
+## To run locally
 
 ```bash
 # Install dependencies for server
@@ -32,15 +30,23 @@ npm run client
 # Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
 
+You will need to create a keys_dev.js in the server config folder with
+
+```
+module.exports = {
+  mongoURI: 'YOUR_OWN_MONGO_URI',
+  secretOrKey: 'YOUR_OWN_SECRET'
+};
+```
 
 ## Main Technologies used
 
 ### Client Side
 
-- [x] **[React](https://github.com/facebook/react)**
-- [x] **[Redux](https://github.com/reactjs/redux)**
-- [x] **[Twitter Bootstap 4](https://github.com/twbs/bootstrap/tree/v4-dev)**
-- [x] **[React-Router-DOM](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
+**[React](https://github.com/facebook/react)**
+**[Redux](https://github.com/reactjs/redux)**
+**[Twitter Bootstap 4](https://github.com/twbs/bootstrap/tree/v4-dev)**
+**[React-Router-DOM](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 
 #### Libraries used in Client-side
 
