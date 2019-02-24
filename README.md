@@ -1,6 +1,6 @@
 ## Devconnector
 
-An social netowork for developers built on MERN stack.
+A social netowork for developers built on MERN stack.
 
 ### To visit this website
 
