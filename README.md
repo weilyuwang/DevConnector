@@ -5,6 +5,12 @@ A platform for developers to connect. They can create their portofolio by adding
 You can visit the website simply by clicking <a href="https://glacial-island-91015.herokuapp.com/" target="_blank">here</a>.
 
 <img src="img/home.png">
+<img src="img/login.png">
+<img src="img/register.png">
+<img src="img/dashboard.png">
+<img src="img/profile.png">
+<img src="img/post.png">
+<img src="img/developers.png">
 
 ---
 
