@@ -2,7 +2,7 @@
 
 A platform for developers to connect. They can create their portofolio by adding their experience, education, skills and other important information of their professional career. Users can also create small posts and like/dislike and comment on other posts.
 
-You can visit the website simply by clicking <a href="https://glacial-island-91015.herokuapp.com/" target="_blank">here</a>.
+You can visit the website simply by clicking <a href="https://weilyu-devconnector.herokuapp.com/" target="_blank">here</a>.
 
 <img src="img/home.png">
 <img src="img/login.png">
